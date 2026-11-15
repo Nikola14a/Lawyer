@@ -12240,4 +12240,17 @@ header .navbar-nav .nav-item .nav-link {
   }
 }
 
+.hero-section {
+  padding: 90px 0;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: auto 100%;
+}
+.hero-section .hero-content {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.hero-section .hero-content .hero-description {
+  margin-bottom: 5.9rem;
+}
+
 /*# sourceMappingURL=theme.css.map */
