@@ -12396,4 +12396,35 @@ footer .social .social-icon:hover {
   padding: left;
 }
 
+.team-page-members {
+  padding: 11.4rem 0 12.7rem;
+}
+.team-page-members .team-page-members-title {
+  margin-bottom: 5.6rem;
+}
+.team-page-members .team-member {
+  margin-bottom: 5.9rem;
+}
+.team-page-members .team-member .team-member-image {
+  overflow: hidden;
+  margin-bottom: 2.2rem;
+}
+.team-page-members .team-member .team-member-image img {
+  display: block;
+  width: 100%;
+  transition: transform 0.5s ease-out;
+}
+.team-page-members .team-member .team-member-image:hover img {
+  transform: scale(1.1);
+}
+.team-page-members .team-member .team-member-name a {
+  font-size: 2rem;
+  line-height: 2rem;
+  text-decoration: none;
+  color: #000;
+}
+.team-page-members .team-member .team-member-name a:hover {
+  color: #1a77cd;
+}
+
 /*# sourceMappingURL=theme.css.map */
